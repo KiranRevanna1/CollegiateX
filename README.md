@@ -52,7 +52,7 @@ To modify these settings, open '.\src\collegeapplication\common\DataBaseConnecti
 
 ## Demo
 
-A demonstration of the EduTrack college management system is available in the [Demo Video](https://user-images.githubusercontent.com/63580687/236466989-dc4c93f7-7f11-4bd6-9737-dbe43cbdfffd.mp4). Please note that the demo showcases the system's features and functionality.
+A demonstration of the EduTrack college management system is available. Please note that the demo showcases the system's features and functionality.
 
 ## Acknowledgements
 
